@@ -11,4 +11,4 @@ Description copied from [here](https://github.com/layibiyi/sports_analytics_chal
 
 * **Task**: Train an algorithm on the first part of the season that will be tested on the second part of the season, after significant data redaction. Algorithm will have to return the identity of a player who has performed certain actions as well as predictions about the next event to take place on that game.
 
-* **Results**: Ranked 17th out of more than 3000 participants.
+* **Results**: Ranked [17th](https://www.agorize.com/fr/challenges/xpsg/pages/finale) out of more than 3000 participants.
