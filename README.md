@@ -1,5 +1,4 @@
-# Sports-Analytics-Challenge X/PSG
-Solution to the X/PSG Sport Analytics Challenge (ranked 17th out of +3000 participants) 
+# Sports Analytics Challenge X/PSG
 
 * This [challenge](https://www.agorize.com/en/challenges/xpsg) was proposed by **Paris Saint-Germain** and **École Polytechnique**
 
